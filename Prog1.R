@@ -11,3 +11,4 @@ Alabama <- df %>% filter(X.STATE == 1)
 table(Alabama$GENHLTH)
 colSums(is.na(Alabama))
 ###
+===
